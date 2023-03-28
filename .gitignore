@@ -1,0 +1,17 @@
+# Ignore JetBrains IDE meta-files.
+.idea/
+
+# Ignore generated TypeScript definition files.
+.d.ts/
+
+# Ignore JavaScript files built from TypeScript.
+js/
+
+# Ignore NPM `node_modules` package directory/files.
+node_modules/
+
+# Ignore generated test coverage directory/files.
+ts/tests/coverage
+
+# Ignore NPM's lock file. I don't think I'm supposed to be doing this.
+package-lock.json
